@@ -24,15 +24,17 @@ line-height: 2;
   color: #086E7D;
 }
 .cr{
-  
+  font-size:100%;
   color: black;
 }
 .git{
   width: 50%;
+  font-size:100%;
   margin: auto;
 }
 .lpt{
   width: 50%;
+  font-size:100%;
   margin: 10px auto 20px auto;  
 }
 h2{
@@ -40,8 +42,6 @@ h2{
   font-size: 250%;
   color: #FFEBCC;
 font-weight: normal;
-padding:2%;
-
 }
 h3{
   font-family: 'Permanent Marker', cursive;
@@ -75,7 +75,6 @@ text-align: center;
 
 }
 .middlec{
-  padding: 4%;
   background-color: #002B5B;
 
 }
@@ -98,9 +97,7 @@ text-align: center;
   border-radius: 100%;
 }
 .profile{
-  padding: 2%;
-  margin: 50px auto 50px auto;
-
+  padding: 4%;
 }
 .conhat{
   position: relative;
@@ -111,7 +108,7 @@ text-align: center;
   border-radius: 100%;
 }
 .skill-row{
-padding: 2%;
+padding: 4%;
   text-align: left;
 }
 .me{
@@ -142,9 +139,9 @@ width: 20%;
   box-shadow: 4px 4px 8px #666666;
   font-family: Georgia;
   color: navy;
-  font-size: 15px;
+  font-size: 5%;
   background: white;
-  padding: 10px 20px 10px 20px;
+  padding:1%;
   text-decoration: none;
 }
 
