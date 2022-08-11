@@ -1,7 +1,7 @@
 .topc {
   background-color: #FFEDDB;
   margin: 0;
-  padding-top: 100px;
+  padding: 4%;
 }
 hr{
   border-style: dashed;
@@ -24,6 +24,7 @@ line-height: 2;
   color: #086E7D;
 }
 .cr{
+  
   color: black;
 }
 .git{
@@ -39,7 +40,7 @@ h2{
   font-size: 250%;
   color: #FFEBCC;
 font-weight: normal;
-margin-top: 30px;
+padding:2%;
 
 }
 h3{
@@ -54,6 +55,7 @@ p{
   color: beige;
   line-height: 2;
   font-size: 125%;
+  padding:1%;
 }
 .footer-link:hover{
   color: white;
@@ -61,7 +63,7 @@ p{
 .footer-link{
   width:25%;
   margin:auto;
-  padding:50px;
+  padding:3%;
 }
 body {
 margin: 0;
@@ -69,16 +71,16 @@ text-align: center;
 }
 .contact-me{
   background-color: #006E7F;
-  padding: 20px;
+  padding: 2%;
 
 }
 .middlec{
-  padding-top: 30px;
+  padding: 4%;
   background-color: #002B5B;
 
 }
 .bottomc{
-  padding:  30px;
+  padding: 4%;
   background-color: #006E7F;
 }
 .specs{
@@ -96,7 +98,7 @@ text-align: center;
   border-radius: 100%;
 }
 .profile{
-  padding-top: 20px;
+  padding: 2%;
   margin: 50px auto 50px auto;
 
 }
@@ -109,8 +111,7 @@ text-align: center;
   border-radius: 100%;
 }
 .skill-row{
-  width:60%;
-  margin: 80px auto 80px auto;
+padding: 2%;
   text-align: left;
 }
 .me{
