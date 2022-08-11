@@ -59,6 +59,8 @@ p{
   color: white;
 }
 .footer-link{
+  width:25%;
+  margin:auto;
   padding:50px;
 }
 body {
@@ -94,7 +96,6 @@ text-align: center;
   border-radius: 100%;
 }
 .profile{
-  width: 80%;
   padding-top: 20px;
   margin: 50px auto 50px auto;
 
