@@ -9,7 +9,6 @@ hr{
   color: white;
 }
 .disp{
-  width: 30%;
   font-size:150%;
   margin: auto;
 }
@@ -29,11 +28,10 @@ line-height: 2;
 }
 .git{
   width: 50%;
-  font-size:100%;
+  font-size:120%;
   margin: auto;
 }
 .lpt{
-  width: 50%;
   font-size:100%;
   margin: 10px auto 20px auto;  
 }
@@ -62,6 +60,7 @@ p{
 }
 .footer-link{
   width:25%;
+  font-size:100;
   margin:auto;
   padding:3%;
 }
@@ -119,14 +118,14 @@ padding: 4%;
 .photography{
   border-radius: 100%;
   float: left;
-  margin-right: 30px;
+  margin:2%;
   height: 20%;
   width: 20%;
 }
 .art{
   border-radius: 100%;
 float: right;
-margin-left: 30px;
+margin:2%;
 height: 20%;
 width: 20%;
 }
