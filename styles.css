@@ -34,7 +34,7 @@ line-height: 2;
 }
 .lpt{
   width: 50%;
-  font-size:150%; 
+  font-size: 150%; 
   margin: auto;
 }
 h2{
@@ -68,9 +68,10 @@ p{
   font-size:50%;
   padding:3%;
 }
+
 body {
-margin: 0;
-text-align: center;
+  margin: 0;
+  text-align: center;
 }
 .contact-me{
   background-color: #006E7F;
