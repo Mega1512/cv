@@ -31,11 +31,13 @@ line-height: 2;
   width: 50%;
   font-size:150%;
   margin: auto;
+  padding:1%;
 }
 .lpt{
   width: 50%;
   font-size: 150%; 
   margin: auto;
+  padding: 1%;
 }
 h2{
   font-family: 'Caveat', cursive;
